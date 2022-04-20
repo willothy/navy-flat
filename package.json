@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+    "repository": "https://github.com/willothy/navy-flat.git",
     "categories": [
         "Themes"
     ],
