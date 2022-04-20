@@ -2,8 +2,9 @@
     "name": "navy-flat",
     "displayName": "Navy Flat",
     "description": "Simple, minimal dark theme.",
+    "icon": "navy.png",
 	"publisher":"willothy",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -17,11 +18,6 @@
                 "label": "Navy Flat Standard",
                 "uiTheme": "vs-dark",
                 "path": "./themes/navy-flat-standard.json"
-            },
-            {
-                "label": "Navy Flat Recolor",
-                "uiTheme": "vs-dark",
-                "path": "./themes/navy-flat-fancy.json"
             }
         ]
     }
