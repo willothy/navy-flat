@@ -1,0 +1,21 @@
+{
+    "name": "navy-flat",
+    "displayName": "Navy Flat",
+    "description": "Simple, minimal dark theme.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Navy Flat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/navy-flat-color-theme.json"
+            }
+        ]
+    }
+}
