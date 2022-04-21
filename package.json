@@ -4,7 +4,7 @@
     "description": "Simple, minimal dark theme.",
     "icon": "navy.png",
 	"publisher":"willothy",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.66.0"
     },
@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Navy Flat Standard",
+                "label": "Navy Flat",
                 "uiTheme": "vs-dark",
                 "path": "./themes/navy-flat-standard.json"
             }

@@ -3,6 +3,10 @@
 All notable changes to the "navy-flat" extension will be documented in this file.
 
 
+## [1.0.4] - 2022-04-20
+### Added
+- Changed cursor color to make it more visible
+
 ## [1.0.3] - 2022-04-20
 ### Added
 - Added line next to sidebar for resizing

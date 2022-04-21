@@ -1999,7 +1999,7 @@
 		"editor.background": "#141f34",
 		"editor.foreground": "#d9d9d9",
 		"editorLineNumber.foreground": "#c4c4c481",
-		"editorCursor.foreground": "#303e8a",
+		"editorCursor.foreground": "#007fd4",
 		"editorCursor.background": "#dbdbdb",
 		"editor.selectionBackground": "#017fd34e",
 		"editor.inactiveSelectionBackground": "#017fd320",
